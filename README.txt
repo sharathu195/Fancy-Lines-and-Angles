@@ -1,6 +1,6 @@
-# README for Fancy Lines and Angles #
+# README for Fancy Lines and Shapes #
 
-This is the README file for the Fancy Lines and Angles app. It's a great place to write
+This is the README file for the Fancy Lines and Shapes app. It's a great place to write
 down some notes about how your app works. For starters, here is some information
 about the other files in this folder.
 
